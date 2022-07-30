@@ -1,5 +1,5 @@
 # projeto-wireframe🚀
-Projeto Wireframe criado com HTML e CSS.
+Projeto Wireframe criado com HTML e CSS pra apresentar técnicas de Flexbox pelo professor <a href="https://willmoreira.com.br/">Will Moreira</a> mentor do curso <a href="https://codeboost.com.br/">Codeboost</a>.
 
 # Tecnologias Usadas 🚀
 
