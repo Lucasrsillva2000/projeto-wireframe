@@ -6,7 +6,6 @@ Projeto Wireframe criado com HTML e CSS pra apresentar técnicas de Flexbox pelo
  <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Javascript</li>
  </ul>
 
  ## Bibliotecas
